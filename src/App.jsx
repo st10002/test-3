@@ -1,5 +1,5 @@
 import './App.css';
-import Dark from './dark';
+import Dark from './dark.jsx';
 
 function App() {
   return <Dark />;
